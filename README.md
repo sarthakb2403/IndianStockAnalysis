@@ -14,16 +14,16 @@ This project provides an analysis of 10 prominent stocks from India, aiming to d
 ## Datasets 📊
 
 The dataset used in this project contains daily stock prices for the following stocks from [Yahoo Finance](https://finance.yahoo.com/):
-- [Infosys (INFY.NS)](https://in.finance.yahoo.com/quote/INFY.NS/)
-- [HDFC Bank (HDFCBANK.NS)](https://in.finance.yahoo.com/quote/HDFCBANK.NS/)
-- [Tata Motors (TATAMOTORS.NS)](https://in.finance.yahoo.com/quote/TATAMOTORS.NS/)
-- [Reliance Industries (HCLTECH.NS)](https://in.finance.yahoo.com/quote/RELIANCE.NS/)
-- [ITC Ltd (LT.NS)](https://in.finance.yahoo.com/quote/ITC.NS/)
-- [Bharti Airtel (BHARTIARTL.NS)](https://in.finance.yahoo.com/quote/BHARTIARTL.NS/)
-- [Tata Steel (TITAN.NS)](https://in.finance.yahoo.com/quote/TATASTEEL.NS/)
-- [Sun Pharmaceutical (SUNPHARMA.NS)](https://in.finance.yahoo.com/quote/SUNPHARMA.NS/)
-- [Adani Ports (HINDUNILVR.NS)](https://in.finance.yahoo.com/quote/ADANIPORTS.NS/)
-- [UltraTech Cement (MARUTI.NS)](https://in.finance.yahoo.com/quote/ULTRACEMCO.NS/)
+- [Infosys (INFY.NS)
+- [HDFC Bank (HDFCBANK.NS)]
+- [Tata Motors (TATAMOTORS.NS)]
+- [Reliance Industries (RELIANCE.NS)]
+- [ITC Ltd (ITC.NS)]
+- [Bharti Airtel (BHARTIARTL.NS)]
+- [Tata Steel (TATASTEEL.NS)]
+- [Sun Pharmaceutical (SUNPHARMA.NS)]
+- [Adani Ports (ADANIPORTS.NS)]
+- [UltraTech Cement (ULTRACEMCO.NS)]
 
 ## Key Insights 🧠
 
@@ -50,8 +50,4 @@ The dataset used in this project contains daily stock prices for the following s
 
 - Python (Libraries: pandas, numpy, yfinance, matplotlib, seaborn)
 - Jupyter Notebook
-
-## Author
-
-[sarthakb2403](https://github.com/sarthakb2403)
 
